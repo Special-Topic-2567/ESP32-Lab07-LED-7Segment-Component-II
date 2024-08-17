@@ -142,15 +142,30 @@ build, flash และ run โปรแกรม
 
 รูปภาพ
 
+![image](https://github.com/user-attachments/assets/9ebc7d9d-6d9c-4b39-bf69-df13f256a2c4)
+![image](https://github.com/user-attachments/assets/d0cbfc8f-59ec-4d02-bae4-f768a77c2f7b)
 
+![image](https://github.com/user-attachments/assets/2f047bed-f046-4433-b3d2-a05d6bb2d1fd)
 
+![image](https://github.com/user-attachments/assets/47d395f9-1d5f-4fb2-9ff7-308a2295ae8d)
+![image](https://github.com/user-attachments/assets/6d28c523-1e63-416d-998e-367f34e7bf17)
+![image](https://github.com/user-attachments/assets/e35ffb5a-ccf9-4708-aedf-95fa1d3b76c9)
 
+![image](https://github.com/user-attachments/assets/2a0a91e0-17e9-4f9b-993c-53c8cab2849e)
 
+![image](https://github.com/user-attachments/assets/4203407b-6eb9-4590-badc-9c081e937d02)
 
 
 วิดิโอ
 
+https://vt.tiktok.com/ZS2FCjy4j/
 
+
+ลิงค์งาน GIT HUB
+
+https://github.com/AnchisaPhetnoi/Lab-07-Seven-segment-Component-develope.git
+
+![image](https://github.com/user-attachments/assets/05d86934-0f7c-43bd-be59-d6970d60ce46)
 
 
 
