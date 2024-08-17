@@ -136,3 +136,26 @@ extern "C" void app_main(void)
 build, flash และ run โปรแกรม 
 
 บันทึกวิดิโอของ LED seven segment และแนบ link วิดีโอในไฟล์นี้
+
+ผลลัพน์ คือ LED seven segment ติดทั้งสองอัน และติดเป็นตัวเลข 0-9 ทั้งสองอัน
+
+
+รูปภาพ
+
+
+
+
+
+
+
+วิดิโอ
+
+
+
+
+
+
+
+
+
+
