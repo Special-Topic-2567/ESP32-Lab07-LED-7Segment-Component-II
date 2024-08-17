@@ -160,6 +160,8 @@ build, flash และ run โปรแกรม
 
 https://vt.tiktok.com/ZS2FCjy4j/
 
+![image](https://github.com/user-attachments/assets/0e26ad78-5c3b-4b54-9ee1-f554dafbb44e)
+
 
 ลิงค์งาน GIT HUB
 
