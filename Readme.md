@@ -136,3 +136,4 @@ extern "C" void app_main(void)
 build, flash และ run โปรแกรม 
 
 บันทึกวิดิโอของ LED seven segment และแนบ link วิดีโอในไฟล์นี้
+### https://drive.google.com/file/d/1R8gPf8-xkG7c8fHsrIR-u6lu1gD5WRGQ/view?usp=sharing
